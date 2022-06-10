@@ -18,11 +18,11 @@ O proceso de atención ao cliente debe seguir o seguinte diagrama:
 
 **Atención ao cidadán**
 
-![image-20220606110034606](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220606110034606.png)
+![image-20220606110034606](/assets/img/image-20220606110034606.png)
 
  **Atención a empresa**
 
-![image-20220606110416706](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220606110416706.png)
+![image-20220606110416706](/assets/img/image-20220606110416706.png)
 
 
 
@@ -38,7 +38,7 @@ A ferramenta contará cun apartado para xestionar todas as estatísticas de asis
 
 ***Dashboard***
 
-![image-20220607082055503](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607082055503.png)
+![image-20220607082055503](/assets/img/image-20220607082055503.png)
 
 
 
@@ -48,7 +48,7 @@ A aplicación contará cun superadministrador que se encargará de xestionar o n
 
 
 
-![image-20220607085404319](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607085404319.png)
+![image-20220607085404319](/assets/img/image-20220607085404319.png)
 
 
 
@@ -64,7 +64,7 @@ Un token de autenticación (o token de seguridade) é un dispositivo de hardware
 
 
 
-![image-20220606124546472](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220606124546472.png)
+![image-20220606124546472](/assets/img/image-20220606124546472.png)
 
 
 
@@ -80,7 +80,7 @@ O uso da aplicación, tal e como xa se dixo, estará destinado ao uso dos funcio
 
 ​	Polo momento definíronse algunhas tecnoloxías, pero a medida que se vaia desenvolvendo a aplicación, pódese cambiar.
 
-![image-20220607093406282](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607093406282.png)![image-20220607093424236](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607093424236.png)![image-20220607093506100](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607093524371.png)![image-20220607095710803](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607095710803.png)![image-20220607095801806](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220607095801806.png)
+![image-20220607093406282](/assets/img/image-20220607093406282.png)![image-20220607093424236](/assets/img/image-20220607093424236.png)![image-20220607093506100](/assets/img/image-20220607093524371.png)![image-20220607095710803](/assets/img/image-20220607095710803.png)![image-20220607095801806](/assets/img/image-20220607095801806.png)
 
 
 
@@ -98,15 +98,15 @@ Unha das formas de aumentar a seguridade da base de datos, seria de  implementar
 
 
 
-![image-20220608100038068](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220608100038068.png)
+![image-20220608100038068](/assets/img/image-20220608100038068.png)
 
-![image-20220608102321224](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220608102321224.png)
-
-
+![image-20220608102321224](/assets/img/image-20220608102321224.png)
 
 
 
-![image-20220608103245247](C:\Users\Usuario\AppData\Roaming\Typora\typora-user-images\image-20220608103245247.png)
+
+
+![image-20220608103245247](/assets/img/image-20220608103245247.png)
 
 
 
